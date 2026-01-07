@@ -12,7 +12,7 @@ O trabalho foi dividido em **duas aplicações online**, ambas desenvolvidas em 
 Aplicação interativa onde o usuário informa seus dados e o modelo de Machine Learning retorna o **nível de obesidade previsto**.
 
 🔗 **Link do App de Previsão:**  
-https://tech-challenge4-cny6yal8bsaikawuwe4ct.streamlit.app
+https://tech-challenge4-cny6yal8bsaikkawuwe4ct.streamlit.app/
 
 **Funcionalidades:**
 - Entrada de dados via sidebar
